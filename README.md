@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am a react/nodeJs developer, I know tailwindcss, boostrap and styled component.
+<br>Développeur React/Nodejs.
 
 
 ## 🌐 Socials:
